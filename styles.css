@@ -4,9 +4,7 @@ h1 {
 }
 
 p {
+    font-size: 50px;
     font-family: sans-serif;
     color: blue;
-}
-p.font-size {
-    font-size: 50px;
 }
